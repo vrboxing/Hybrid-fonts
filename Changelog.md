@@ -60,6 +60,11 @@
 
 ***
 
+> Date: 2019 / 6 / 26 _Version: 2.48_
+- 合并中文 hinting
+
+***
+
 ## InconsolataGo QiHei NF
 
 > Date: 2018 / 1 / 22 _Version: 1.10_

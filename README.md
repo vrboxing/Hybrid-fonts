@@ -2,8 +2,10 @@
 
 ![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)
 
-### FiraCode QiHei NF
+## FiraCode QiHei NF
 > 字形清晰硬朗，支持连体运算符（仅部分IDE或编辑器）
+
+![](Screenshots/FiraCode_QiHei_NF.png)
 
 #### *Builded with:*
 - [FiraCode](https://github.com/tonsky/FiraCode)-Regular/Bold
@@ -12,8 +14,10 @@
 
 ***
 
-### DejaVuSansMono YaHei NF
+## DejaVuSansMono YaHei NF
 > 字形宽阔圆润，非常耐看，支持更多的 Unicode 字符
+
+![](Screenshots/DejaVuSansMono_YaHei_NF.png)
 
 #### *Builded with:*
 - [DejaVu Sans Mono](https://dejavu-fonts.github.io/)-Regular/Bold/Oblique
@@ -25,8 +29,10 @@
 
 ***
 
-### InconsolataGo QiHei NF
+## InconsolataGo QiHei NF
 > 字形清晰，严格等距，并使用 Auto-Hinting 改善显示效果
+
+![](Screenshots/InconsolataGo_QiHei_NF.png)
 
 #### *Builded with:*
 - [InconsolataGo](http://levien.com/type/myfonts/inconsolata.html)-Regular/Bold
@@ -34,8 +40,6 @@
 - All glyphs and icons from [Nerd-Fonts](https://nerdfonts.com/)
 
 ***
-
-### [Screenshots](https://github.com/m8524769/Hybrid-fonts/tree/master/Screenshots)
 
 ### [Change Log](Changelog.md)
 
