@@ -36,7 +36,7 @@
 
 #### *Builded with:*
 - [InconsolataGo](http://levien.com/type/myfonts/inconsolata.html)-Regular/Bold
-- [汉仪旗黑-55S](http://www.hanyi.com.cn/productdetail.php?id=832)
+- [汉仪旗黑-50S](http://www.hanyi.com.cn/productdetail?id=831)
 - All glyphs and icons from [Nerd-Fonts](https://nerdfonts.com/)
 
 ***
